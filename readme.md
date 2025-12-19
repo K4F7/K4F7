@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sein
+# 👋Hi, I'm sein.
 
 ### A developer bridging Logic, Psychology, and Management.
 
