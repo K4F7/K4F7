@@ -22,5 +22,5 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-# stat
+### 📋stat
 [![Sein's GitHub stats](https://github-readme-stats.vercel.app/api?username=K4F7)](https://github.com/K4F7/github-readme-stats)
